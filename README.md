@@ -41,7 +41,7 @@ Clone the Repository:
 git clone https://github.com/your-Sameera0103/SMS-Classifier.git
 Navigate to the Project Directory:
 
-cd sma-classifier
+cd sms-classifier
 Install Dependencies:
 
 Install the required Python libraries as mentioned in the "Dependencies" section.
